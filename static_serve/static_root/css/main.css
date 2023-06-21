@@ -1,0 +1,16 @@
+html, body {
+    padding: 0;
+    background-color: lightgreen;
+    color: black;
+}
+
+.title {
+    color: blue;
+    text-align: center;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+a {
+    color: black;
+}
