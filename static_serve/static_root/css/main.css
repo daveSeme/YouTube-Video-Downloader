@@ -1,6 +1,7 @@
 html, body {
     padding: 0;
     background-color: lightgreen;
+    background-image:url(static_files\img\background.jpg);
     color: black;
 }
 
